@@ -1,0 +1,7 @@
+name: Facebook Widgets
+description: Facebook JavaScript SDK to use Facebook's widgets
+package: Social
+core: 8.x
+type: module
+dependencies:
+  - social_widgets

@@ -1,0 +1,10 @@
+facebook_widgets.tab:
+  title: Facebook
+  base_route: social_widgets.integrations
+  route_name: facebook_widgets.list
+
+facebook_widgets.list:
+  title: List
+  route_name: facebook_widgets.list
+  parent_id: facebook_widgets.tab
+  weight: -50

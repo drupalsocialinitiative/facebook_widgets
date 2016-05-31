@@ -1,0 +1,7 @@
+facebook_widgets.list:
+  path: '/admin/config/social-api/social-widgets/facebook'
+  defaults:
+    _title: 'Facebook widgets'
+    _controller: 'Drupal\facebook_widgets\Controller\FacebookWidgetsController::listWidgets'
+  requirements:
+    _permission: 'administer social api widgets'

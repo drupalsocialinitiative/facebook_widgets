@@ -1,0 +1,3 @@
+facebook-sdk:
+  js:
+    js/facebook-sdk.js: {}
